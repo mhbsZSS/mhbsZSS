@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
+<!-- Cabeçalho -->
+
+# **Bem vindo ao meu GitHub! 👋**
+#### Eu me chamo, ✨Marcio Hernani✨.
 <!--
 **mhbsZSS/mhbsZSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Sou professor de matemática na educação básica do Estado de São Paulo
+- 🌱 Formado em licenciatura plena em Matemática - FEMA
+- 🌱 Estudante em Tecnologia de Sistemas Inteligentes - FATEC
+- 👯 Espero poder colaborar e aprender no desenvolvimento em programação Python
+- 🤔 Estou procurando ajuda na construção do meu conhecimento em programação
+- ⚡ Espero poder contribuir e muito com esse universo tecnologico que está em grande desenvolvimento
+
+### Minhas tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width=100px>
+          
+
