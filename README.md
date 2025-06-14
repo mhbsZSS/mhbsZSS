@@ -18,6 +18,6 @@ Here are some ideas to get you started:-->
 - ⚡ Espero poder contribuir e muito com esse universo tecnologico que está em grande desenvolvimento
 
 ### Minhas tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width=100px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=100px>
           
 
