@@ -10,12 +10,12 @@
 Here are some ideas to get you started:-->
 
 
-- 🔭 Sou professor de matemática na educação básica do Estado de São Paulo
-- 🌱 Formado em licenciatura plena em Matemática - FEMA
-- 🌱 Estudante em Tecnologia de Sistemas Inteligentes - FATEC
-- 👯 Espero poder colaborar e aprender no desenvolvimento em programação Python
-- 🤔 Estou procurando ajuda na construção do meu conhecimento em programação
-- ⚡ Espero poder contribuir e muito com esse universo tecnologico que está em grande desenvolvimento
+- 🔭 Sou professor de matemática na educação básica do Estado de São Paulo;
+- 🌱 Formado em licenciatura plena em Matemática - FEMA;
+- 🌱 Estudante em Tecnologia de Sistemas Inteligentes - FATEC;
+- 👯 Espero poder colaborar e aprender no desenvolvimento em programação Python;
+- 🤔 Estou procurando ajuda na construção do meu conhecimento em programação;
+- ⚡ Espero poder contribuir e muito com esse universo tecnológico que está em grande desenvolvimento.
 
 ### Minhas tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=100px>
